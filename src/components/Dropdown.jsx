@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
 import { MdArrowDropDown} from 'react-icons/md'
-import logo from '../assets/profile.jpg'
+import logo from '../assets/profile.jpeg'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
